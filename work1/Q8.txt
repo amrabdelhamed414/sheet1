@@ -1,0 +1,1 @@
+Test.id = 45;  -> error as id is instanse variable (not static)
